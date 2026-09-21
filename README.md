@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License" />
 </div>
 
+<p align="center">
+  <a href="https://ka9mal6t.github.io/chess-app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Live%20Demo-Chess%20App-blue?style=for-the-badge" alt="Live Demo" />
+  </a>
+</p>
+
 A modern browser-based chess game built with React, TypeScript, and Vite. The project includes piece movement logic, turn management, timer control, captured figures tracking, win/draw detection, and a polished game interface.
 
 ## Overview
